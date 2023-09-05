@@ -1,0 +1,414 @@
+
+.body1{
+	overflow-x: hidden;
+}
+
+
+.background1{
+    height:800px;
+    width: 100%;
+    background-image: url(https://img.freepik.com/premium-photo/side-view-laptop-against-dark-wall_872147-43788.jpg);
+    /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9kh62JQNzdMMxLCmFxYkfIW5K5i8na_nFZREggZbwF1mSGCBoUe-Sz7tbOqsCFy9xUtU&usqp=CAU); */
+   
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+.menu{
+    
+   z-index: 9999;
+}
+
+.nav_css{
+	margin-left: 200px;
+}
+
+.web_1{
+	height: 500px;
+	 
+	float: left;
+	margin-top: 150px;
+	margin-left: 200px;
+	text-align: left;
+	color: rgb(234, 225, 234);
+	font-weight: bold;
+
+}
+.form_css{
+	height: 600px;
+	width: 90%;
+	margin-top: 100px;
+	border: 2px solid white;
+	background-color: black;
+
+}
+.inp{
+	padding: 8px;
+	width: 80%;
+	justify-content: center;
+	margin-left: 50px;
+  background-color: rgba(41, 39, 39, 0.5);  
+  border: 1px solid #55c4e9;
+  padding: 10px;
+}
+
+ 
+
+input::placeholder {
+	color:white; 
+  }
+textarea::placeholder {
+	color:white; 
+  }
+
+ 
+.web_3{
+	height: 100px;
+	width: 500px;
+	background-color: white ;
+	float: right;
+	transform: rotate(175deg);
+	margin-top: -10px;
+}
+
+.web_4{
+	height: 650px;
+	width: 500px;
+	/*background-color: red;*/
+	 
+	margin-top: 150px;
+	margin-left: 200px;
+	border: 7px solid orange;
+}
+
+.web_5{
+	height: 650px;
+	width: 500px;
+	background-image: url(https://www.jabra.com/-/media/Images/Products/Jabra-Elite-85h/Layout/KSP5_CallQuality/call_quality_img_3_mob.jpg);
+	position: absolute;
+	top: 970px;
+	left: 220px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+
+	 
+}
+.vijay{
+	border-radius: 10%;
+}
+
+
+.web_6{
+	height: 500px;
+	width: 700px;
+	background-color: white;
+	 position: absolute;
+     top: 1050px;
+     left: 650px;
+	 
+}
+ 
+ .border1{
+ 	border-bottom: 5px solid orange;
+ 	width: 100px;
+ 	margin-left: 50px;
+ }
+
+ .button1:hover{
+ 	background-color: orange;
+ 	border: none;
+ }
+
+ .web_7{
+ 	margin-top: 100px;
+ 	text-align: center;
+   font-size: 40px;
+
+ }
+
+ 
+ .border2{
+ 	border-bottom: 5px solid rgb(66, 185, 232);
+ 	width: 200px;
+   margin-left: 700px;
+ }
+
+ .vijay:hover{
+   background-color: rgb(42, 191, 232);
+   box-shadow: black;
+
+ }
+
+
+.web_9{
+	height: 50px;
+	width: 50px;
+	background-color:orange;
+	 position: absolute;
+     top: 2030px;
+     left: 350px;
+     border: 1px solid black;
+  }
+
+
+.web_10{
+	height: 50px;
+	width: 50px;
+	background-color:orange;
+	 position: absolute;
+     top: 2030px;
+     left: 730px;
+     border: 1px solid black;
+  }
+
+.web_11{
+	height: 50px;
+	width: 50px;
+	background-color:orange;
+	 position: absolute;
+     top: 2030px;
+     left: 1100px;
+     border: 1px solid black;
+  }
+
+.web_12{
+	height: 50px;
+	width: 50px;
+	background-color:orange;
+	 position: absolute;
+     top: 2370px;
+     left: 350px;
+     border: 1px solid black;
+  }
+
+.web_13{
+	height: 50px;
+	width: 50px;
+	background-color:orange;
+	 position: absolute;
+     top: 2370px;
+     left: 740px;
+     border: 1px solid black;
+  }
+
+.web_14{
+	height: 50px;
+	width: 50px;
+	background-color:orange;
+	 position: absolute;
+     top: 2370px;
+     left: 1100px;
+     border: 1px solid black;
+  }
+
+  .web_15{
+  	height: 300px;
+  	width: 100%;
+
+  }
+
+
+  .web_16{
+  	height: 30px;
+  	width: 80%;
+   
+  	text-align: center;
+
+
+  }
+
+
+ .border3{
+ 	border-bottom: 5px solid orange;
+ 	width: 100px;
+   margin-left: 550px;
+   margin-top: 30px;
+ }
+ .web_17:hover{
+ 	background-color: orange;
+ 	border: none;
+ }
+
+
+
+.web_18:hover{
+ 	background-color: orange;
+ 	border: none;
+
+ }
+
+
+ .border4{
+ 	border-bottom: 5px solid rgb(48, 202, 229);
+ 	width: 100px;
+   margin-left: 500px;
+   margin-top: 30px;
+ }
+
+ .box11{
+	height: auto;
+	width: 100%; 	
+	position: absolute;
+	float: left;
+	padding-left: 10px;
+	/*margin-left: 100px;*/
+}
+
+.misson{
+	height: 40px;
+
+	background-color: rgb(55, 208, 235);
+	color: white;
+	float: right;
+	padding-top: 5px;
+	text-align: center;
+	float: left;
+}
+
+.web_18{
+	height: 100px;
+	width: 100px;
+	border: 2px solid black;
+	background-color: orange;
+
+}
+
+.nextpage{
+	height: 25px;
+	width: 500px;
+	float: left;
+	 
+	margin-left: 400px;
+}
+
+.first{
+	height: 25px;
+	width: 25px;
+	 
+	float: left;
+	border: 1px solid black;
+
+
+}
+
+
+ .vijay2{
+ 	height: 250px;
+ 	width: 100%;
+ 	float: left;
+ 	 /*background-color: orange;*/
+ 	margin-top: 500PX;
+ 	margin-left: 190PX;
+ 	 
+ } 
+
+ .vijay3{
+ 	margin-top: 550px;
+ }
+.vijay4{
+    height:800px;
+    width: 100%;
+    background-image: url(IMG-20220502-WA0000.jpg);
+    margin-left: 0px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+.vijay5{
+	 border-bottom: 5px solid orange;
+ 	width: 100px;
+   margin-left :680px;
+   margin-top: 30px;
+}
+
+.vijay6{
+	height: 450px;
+	width: 450px;
+	border: 2px solid orange;
+	border-radius: 10px;
+	margin-left: 10px;
+	margin-top: 50px;
+
+}
+
+.vijay7{
+	height: 100px;
+	width: 100px;
+	border-radius: 50px;
+	background-color: red;
+	margin-top: 20px;
+	 float: left;
+	margin-left: 180px;
+}
+.vijay8{ 
+	border-radius: 50px;
+
+}
+.vijay9{
+	height: 30px;
+	width: 100px;
+
+}
+
+
+.vijay10{
+	height: 450px;
+	width: 500px;
+	border: 2px solid orange;
+	border-radius: 10px;
+	float: left;
+
+}
+
+.vijay11{
+	height: 500px;
+	width: 500px;
+	/*background-color: orange;*/
+	float: left;
+	margin-top: 50px;
+	margin-left: 170px;
+
+
+}
+
+.vijay13{
+	height: 150px;
+	width: 250px;
+	background-color: #51c5ec;
+
+}
+.img1:hover{ 
+	 border-radius: 50%;
+}
+
+.vijay13:hover{
+	border-radius: 0px 100px 0px 100px;
+}
+
+.vijay14{
+	height: 500px;
+	width: 100%;
+	position: absolute;
+	margin-left: 200px;
+	margin-top: -250px;
+	box-shadow: 0px 0px 100px 0px black;
+}
+
+.vijay15{
+	height: 470px;
+	width: 50%;
+	/*background-color: orange;*/
+	float: left;
+
+}
+
+.vijay16{
+	height: 500px;
+	 
+	width: 50%;
+	/*background-color: black;*/
+	float: left;
+	 
+}
