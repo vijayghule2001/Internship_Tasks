@@ -1,0 +1,14 @@
+
+<form [formGroup]="studentForm" (ngSubmit)="saveStudent()">
+  <input type="text" formControlName="student_name">
+  <input type="text" formControlName="student_mobile">
+  <button>Save</button>
+</form>
+
+<table border="1">
+  <tr *ngFor="let row  of studet_list">
+    <td><button (click)="edit(row.id)" >Edit</button></td>
+    <td>{{row.student_name}}</td>
+    <td>{{row.student_mobile}}</td>
+  </tr>
+</table>
